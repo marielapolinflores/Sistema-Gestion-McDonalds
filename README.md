@@ -17,7 +17,7 @@ Oracle Database,orientado a la gestión empresarial de un restaurante McDonald's
 - 🛒 Control de pedidos
 - 📁 Panel administrativo moderno
 
-
+---
 🛠️ Tecnologías utilizadas
 
 - Java
@@ -27,7 +27,7 @@ Oracle Database,orientado a la gestión empresarial de un restaurante McDonald's
 - JDBC
 - Git & GitHub
 
-
+---
 
 📸 Vista previa del sistema
 
@@ -35,7 +35,7 @@ Oracle Database,orientado a la gestión empresarial de un restaurante McDonald's
 <img width="580" height="450" alt="image" src="https://github.com/user-attachments/assets/1c9ee97f-85c4-45cd-9182-83630c687f0c" />
 <img width="580" height="450" alt="image" src="https://github.com/user-attachments/assets/433071f6-84f8-42d5-b8a2-1949f5c09645" />
 
-
+---
 👩‍💻 Autor
 
 **Mariela Diana Polin Flores**  
