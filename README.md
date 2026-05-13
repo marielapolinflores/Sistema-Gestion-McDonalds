@@ -38,7 +38,7 @@ Oracle Database,orientado a la gestión empresarial de un restaurante McDonald's
 
 👩‍💻 Autor
 
-**Mariela Diana Polin**  
+**Mariela Diana Polin Flores**  
 Estudiante de Ingeniería de Software con IA - SENATI
 
 ---
