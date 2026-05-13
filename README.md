@@ -31,13 +31,10 @@ Oracle Database,orientado a la gestión empresarial de un restaurante McDonald's
 
 📸 Vista previa del sistema
 
-_Aquí puedes agregar capturas de pantalla de tu sistema._
 <img width="1206" height="887" alt="image" src="https://github.com/user-attachments/assets/c628bb92-82ed-4c40-94c7-3743e726e805" />
 <img width="622" height="500" alt="image" src="https://github.com/user-attachments/assets/1c9ee97f-85c4-45cd-9182-83630c687f0c" />
 <img width="885" height="570" alt="image" src="https://github.com/user-attachments/assets/433071f6-84f8-42d5-b8a2-1949f5c09645" />
 
-
----
 
 👩‍💻 Autor
 
